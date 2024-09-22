@@ -150,6 +150,7 @@
 - [CoastSat](https://github.com/kvos/CoastSat) - Global shoreline mapping tool from satellite imagery.
 - [Google-Earth-Engine-Python-Examples](https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples)
 - [csaybar/EEwPython](https://github.com/csaybar/EEwPython)
+- [EOWater](https://github.com/ShiruiH/EOWater) - An efficient toolbox to retrieve water surface area time-series from Sentinel-2 and Landsat in GEE
 
 ### Tutorials
 
@@ -221,6 +222,7 @@
 - [Samapriya Roy](https://github.com/samapriya)
 - [Sabrina Szeto](https://github.com/sabrinaszeto)
 - [Qiusheng Wu](https://github.com/giswqs)
+- [Kilian Vos](https://github.com/kvos)
 
 ## Twitter
 
@@ -318,7 +320,7 @@
 - [Surface water changes (1985-2016)](https://aqua-monitor.appspot.com/)
 - [Decision Support Tools](https://servir.adpc.net/tools)
 - [Earth Map](https://earthmap.org)
-- [CoastSat shoreline change database](http://coastsat.wrl.unsw.edu.au/)
+- [Coastal change (1984-present)](http://coastsat.space/)
 
 ## Datasets
 
